@@ -11,7 +11,7 @@ This repository is a challenge that aims the practice of **Git** commands and **
 - `git commit -m "MESSAGE"` : commit with message description
 - `git push --set-upstream origin main` : push to remote **origin** and set it as upstream of **main**
 - `git pull --rebase` : get updates from remote repository and show conflicts locally
-- `git rebase --continue` : mark tracked files conflicts as resolves
+- `git rebase --continue` : mark tracked files conflicts as resolved
 
 ## Why
 This repository is a challenge of the **JavaScript Evolution** bootcamp offered by **[Impulso]** and **[Digital Innovation One]**.
